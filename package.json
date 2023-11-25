@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "This is a simple logging utility for Node.js, providing color-coded console output with customizable formatting. It includes features such as delayed logging, queuing of log messages, and writing log messages to a specified output file.",
+  "main": "index.js",
+  "author": "Askile",
+  "license": "NONE"
+}
